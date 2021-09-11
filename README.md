@@ -1,6 +1,5 @@
 # Millia-The-Ending-CHS-Patch-GUI
 带图形界面的Millia - The Ending- 汉化补丁
-# 目前仅在Windows 10和Python 3.9上可用
 
 运行本汉化补丁最低操作系统要求为Microsoft Windows 7 x32且仅限Windows，
 
