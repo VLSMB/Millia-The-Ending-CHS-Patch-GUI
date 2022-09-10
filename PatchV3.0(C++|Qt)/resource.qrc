@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/ico">
+        <file>Icon.ico</file>
+    </qresource>
+    <qresource prefix="/zip">
+        <file>Document.zip</file>
+        <file>PatchCode.zip</file>
+        <file>PatchFile.zip</file>
+    </qresource>
+    <qresource prefix="/png">
+        <file>Millia.png</file>
+    </qresource>
+</RCC>
